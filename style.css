@@ -288,3 +288,6 @@ footer{background: #fff;padding: 60px 0;}
   letter-spacing: normal;
   text-align: right;
   color: #666666;}
+.pelayanan img {
+	width: 90px; height: auto;
+}  
